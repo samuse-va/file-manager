@@ -2,7 +2,10 @@
 
 Task: https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md
 Done 12.06.2022 / deadline 12.06.2022
+
 Score: 131/320
+
+Не всё работает, но есть намётки структуры, и ещё несколько комментов оставила тут ниже, в readme, через "//" (пункт про выход из приложения и про подсчет хеша)
 
 Basic Scope
 
