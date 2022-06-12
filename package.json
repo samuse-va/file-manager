@@ -1,0 +1,22 @@
+{
+  "name": "node-file-manager",
+  "version": "1.0.0",
+  "description": "This repository is for the task https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuse-va/file-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file-manager",
+    "samuse-va"
+  ],
+  "author": "samuse-va",
+  "license": "no",
+  "homepage": "https://github.com/samuse-va/file-manager#readme"
+}
